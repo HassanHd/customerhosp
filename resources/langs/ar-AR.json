@@ -1,0 +1,31 @@
+{
+  "Login": "تسجيل الدخول",
+  "Email":"بريد الالكتروني",
+  "Password":"كلمة المرور",
+  "Forget Password":"هل نسيت كلمة المرور ",
+  "Register":"مشترك جديد",
+  "Name":"الإسم الكامل",
+  "Signup":"التسجيل",
+  "Mobile No.":"الجوال",
+  "Claim Your Listing":"مطالبة ببطاقتك",
+  "Contact us":"اتصل بنا",
+  "FAQ":"التعليمات",
+  "Home":"الرئيسية",
+  "Profile":"الشخصية",
+  "Social": "اجتماعي",
+  "More": "المزيد",
+  "My Profile": "الملف الشخصى",
+  "My Reservations": "حجوزاتي",
+  "My Favorits": "المفضل",
+  "My Invitations": "دعواتي",
+
+  "About ASC":"معلومات عنا",
+  "Terms & Conditions":"الشروط والأحكام",
+  "Data Policy":"سياسة البيانات",
+  "Rate Us":"قم بتقيمنا",
+  "Share App":"شارك التطبيق",
+  "Notifications":"إشعارات",
+  "Change Language":"تغيير اللغة",
+
+  "Logout":"تسجيل الخروج"
+}
